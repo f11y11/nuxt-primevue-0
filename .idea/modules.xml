@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/restaurant.iml" filepath="$PROJECT_DIR$/.idea/restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nuxt-primevue.iml" filepath="$PROJECT_DIR$/.idea/nuxt-primevue.iml" />
     </modules>
   </component>
 </project>
